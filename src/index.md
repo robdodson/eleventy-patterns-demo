@@ -3,4 +3,8 @@ layout: base.njk
 title: Hello, World
 ---
 
-Here is some content.
+{% Pattern 'pancake' %}
+
+---
+
+{% Pattern 'waffle' %}
